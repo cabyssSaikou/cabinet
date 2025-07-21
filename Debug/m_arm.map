@@ -1,0 +1,1250 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+                              ./ti_msp_dl_config.o (DL_Common_delayCycles)
+C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+                              ./ti_msp_dl_config.o (DL_Timer_setClockConfig)
+C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+                              ./ti_msp_dl_config.o (DL_UART_init)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                              C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o) (__aeabi_uidiv)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                              ./drv_uart/drv_uart.o (__aeabi_idiv)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o)
+                              ./arm_controller/arm_controller.o (__aeabi_dcmplt)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(adddf3.o)
+                              ./arm_controller/arm_controller.o (__aeabi_dadd)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(divdf3.o)
+                              ./arm_controller/arm_controller.o (__aeabi_ddiv)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+                              c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o) (__eqdf2)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+                              c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o) (__gedf2)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+                              c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o) (__ledf2)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+                              ./arm_controller/arm_controller.o (__aeabi_dmul)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+                              ./arm_controller/arm_controller.o (__aeabi_dsub)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+                              ./arm_controller/arm_controller.o (__aeabi_d2iz)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(floatsidf.o)
+                              ./eye_uart/hc05_reqserver.o (__aeabi_i2d)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+                              c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(adddf3.o) (__clzsi2)
+C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+                              ./startup_mspm0g350x_gcc.o (__libc_init_array)
+C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memcpy-stub.o)
+                              ./drv_uart/drv_uart.o (memcpy)
+C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+                              ./drv_uart/drv_uart.o (memset)
+C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_atan2.o)
+                              ./arm_controller/arm_controller.o (atan2)
+C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o)
+                              ./arm_controller/arm_controller.o (sqrt)
+C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_atan2.o)
+                              C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_atan2.o) (__ieee754_atan2)
+C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_sqrt.o)
+                              C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o) (__ieee754_sqrt)
+C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_atan.o)
+                              C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_atan2.o) (atan)
+C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_fabs.o)
+                              C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_atan2.o) (fabs)
+C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_lib_ver.o)
+                              C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o) (__fdlib_version)
+C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_matherr.o)
+                              C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o) (matherr)
+c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(unorddf2.o)
+                              C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o) (__aeabi_dcmpun)
+C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
+                              C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o) (__errno)
+C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+                              C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o) (_impure_ptr)
+
+Allocating common symbols
+Common symbol       size              file
+
+m_y                 0x8               ./arm_controller/arm_controller.o
+arm_3_gRxPacket     0x28              ./arm_controller/arm_controller.o
+position_set_y      0x4               ./arm_controller/arm_controller.o
+count_2             0x4               ./empty.o
+arm_2_gRxPacket     0x28              ./arm_controller/arm_controller.o
+uart_hc05_tx_pro    0x1               ./arm_controller/arm_controller.o
+arm_1_gRxPacket_copy
+                    0x28              ./arm_controller/arm_controller.o
+position_set_x      0x4               ./arm_controller/arm_controller.o
+gUART_arm_3Backup   0x30              ./ti_msp_dl_config.o
+height_count        0x4               ./arm_controller/arm_controller.o
+arm_1_packet_length
+                    0x4               ./drv_uart/drv_uart.o
+uart_arm_3_tx_pro   0x1               ./arm_controller/arm_controller.o
+flag                0x1               ./eye_uart/hc05_reqserver.o
+angle_1             0x8               ./arm_controller/arm_controller.o
+gTIMER_0Backup      0xbc              ./ti_msp_dl_config.o
+HC05_gRxPacket      0x28              ./eye_uart/hc05.o
+arm_2_packet_length
+                    0x4               ./drv_uart/drv_uart.o
+HC05_gRxPacket_pointer
+                    0x4               ./eye_uart/hc05.o
+arm_3_packet_length
+                    0x4               ./drv_uart/drv_uart.o
+HC05_packet_length  0x4               ./drv_uart/drv_uart.o
+m_x                 0x8               ./arm_controller/arm_controller.o
+v                   0x4               ./arm_controller/arm_controller.o
+HC05_packet_end     0x4               ./eye_uart/hc05.o
+HC05_gTxPacket      0x28              ./eye_uart/hc05.o
+HC05_packet_start   0x4               ./eye_uart/hc05.o
+count               0x4               ./arm_controller/arm_controller.o
+position_set_z      0x4               ./arm_controller/arm_controller.o
+arm_2_gRxPacket_copy
+                    0x28              ./arm_controller/arm_controller.o
+uart_arm_1_tx_pro   0x1               ./arm_controller/arm_controller.o
+arm_1_gRxPacket     0x28              ./arm_controller/arm_controller.o
+angle_2             0x8               ./arm_controller/arm_controller.o
+t_int_1             0x4               ./arm_controller/arm_controller.o
+flash_flag          0x4               ./empty.o
+uart_arm_2_tx_pro   0x1               ./arm_controller/arm_controller.o
+HC05_gRxPacket_copy
+                    0x28              ./eye_uart/hc05.o
+position_count      0x4               ./arm_controller/arm_controller.o
+t_int_2             0x4               ./arm_controller/arm_controller.o
+arm_3_gRxPacket_copy
+                    0x28              ./arm_controller/arm_controller.o
+
+Discarded input sections
+
+ .rodata.I2C0   0x00000000        0x4 ./empty.o
+ .rodata.SYSCTL
+                0x00000000        0x4 ./empty.o
+ .rodata.WWDT1  0x00000000        0x4 ./empty.o
+ .rodata.CPUSS  0x00000000        0x4 ./empty.o
+ .rodata.CANFD0
+                0x00000000        0x4 ./empty.o
+ .rodata.IOMUX  0x00000000        0x4 ./empty.o
+ .rodata.GPIOB  0x00000000        0x4 ./empty.o
+ .rodata.CRC    0x00000000        0x4 ./empty.o
+ .rodata.WWDT0  0x00000000        0x4 ./empty.o
+ .rodata.SPI1   0x00000000        0x4 ./empty.o
+ .rodata.DAC0   0x00000000        0x4 ./empty.o
+ .rodata.I2C1   0x00000000        0x4 ./empty.o
+ .rodata.GPIOA  0x00000000        0x4 ./empty.o
+ .rodata.FLASHCTL
+                0x00000000        0x4 ./empty.o
+ .rodata.TRNG   0x00000000        0x4 ./empty.o
+ .rodata.RTC    0x00000000        0x4 ./empty.o
+ .rodata.SPI0   0x00000000        0x4 ./empty.o
+ .rodata.AES    0x00000000        0x4 ./empty.o
+ .rodata.DMA    0x00000000        0x4 ./empty.o
+ .rodata.OPA0   0x00000000        0x4 ./empty.o
+ .rodata.OPA1   0x00000000        0x4 ./empty.o
+ .rodata.TIMA0  0x00000000        0x4 ./empty.o
+ .rodata.TIMA1  0x00000000        0x4 ./empty.o
+ .rodata.UART3  0x00000000        0x4 ./empty.o
+ .rodata.UART0  0x00000000        0x4 ./empty.o
+ .rodata.UART1  0x00000000        0x4 ./empty.o
+ .rodata.UART2  0x00000000        0x4 ./empty.o
+ .rodata.COMP0  0x00000000        0x4 ./empty.o
+ .rodata.COMP1  0x00000000        0x4 ./empty.o
+ .rodata.COMP2  0x00000000        0x4 ./empty.o
+ .rodata.WUC    0x00000000        0x4 ./empty.o
+ .rodata.FACTORYREGION
+                0x00000000        0x4 ./empty.o
+ .rodata.ADC0   0x00000000        0x4 ./empty.o
+ .rodata.ADC0_PERIPHERALREGIONSVT
+                0x00000000        0x4 ./empty.o
+ .rodata.ADC1   0x00000000        0x4 ./empty.o
+ .rodata.ADC1_PERIPHERALREGIONSVT
+                0x00000000        0x4 ./empty.o
+ .rodata.TIMG0  0x00000000        0x4 ./empty.o
+ .rodata.VREF   0x00000000        0x4 ./empty.o
+ .rodata.MATHACL
+                0x00000000        0x4 ./empty.o
+ .rodata.TIMG12
+                0x00000000        0x4 ./empty.o
+ .rodata.TIMG6  0x00000000        0x4 ./empty.o
+ .rodata.TIMG7  0x00000000        0x4 ./empty.o
+ .rodata.TIMG8  0x00000000        0x4 ./empty.o
+ .rodata.DEBUGSS
+                0x00000000        0x4 ./empty.o
+ .text.SYSCFG_DL_saveConfiguration
+                0x00000000       0x2c ./ti_msp_dl_config.o
+ .text.SYSCFG_DL_restoreConfiguration
+                0x00000000       0x2c ./ti_msp_dl_config.o
+ .rodata.arm_1_len
+                0x00000000        0x8 ./arm_controller/arm_controller.o
+ .rodata.arm_2_len
+                0x00000000        0x8 ./arm_controller/arm_controller.o
+ .rodata.max_limit
+                0x00000000        0x8 ./arm_controller/arm_controller.o
+ .rodata.min_limit
+                0x00000000        0x8 ./arm_controller/arm_controller.o
+ .rodata.x_max_limit
+                0x00000000        0x8 ./arm_controller/arm_controller.o
+ .rodata.x_min_limit
+                0x00000000        0x8 ./arm_controller/arm_controller.o
+ .rodata.y_max_limit
+                0x00000000        0x8 ./arm_controller/arm_controller.o
+ .rodata.y_min_limit
+                0x00000000        0x8 ./arm_controller/arm_controller.o
+ .rodata.I2C0   0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.SYSCTL
+                0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.WWDT1  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.CPUSS  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.CANFD0
+                0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.IOMUX  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.GPIOB  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.CRC    0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.WWDT0  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.SPI1   0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.DAC0   0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.I2C1   0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.GPIOA  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.FLASHCTL
+                0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.TRNG   0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.RTC    0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.SPI0   0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.AES    0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.DMA    0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.OPA0   0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.OPA1   0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.TIMA0  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.TIMA1  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.UART3  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.UART0  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.UART1  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.UART2  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.COMP0  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.COMP1  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.COMP2  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.WUC    0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.FACTORYREGION
+                0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.ADC0   0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.ADC0_PERIPHERALREGIONSVT
+                0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.ADC1   0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.ADC1_PERIPHERALREGIONSVT
+                0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.TIMG0  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.VREF   0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.MATHACL
+                0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.TIMG12
+                0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.TIMG6  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.TIMG7  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.TIMG8  0x00000000        0x4 ./drv_uart/drv_uart.o
+ .rodata.DEBUGSS
+                0x00000000        0x4 ./drv_uart/drv_uart.o
+ .text.HC05_packet_detect
+                0x00000000       0x5c ./eye_uart/hc05.o
+ .rodata.get_int.str1.4
+                0x00000000        0xc ./eye_uart/hc05_reqserver.o
+ .text.get_int  0x00000000       0x48 ./eye_uart/hc05_reqserver.o
+ .text.get_int_u
+                0x00000000       0x3c ./eye_uart/hc05_reqserver.o
+ .text.DL_Timer_getInChanConfig
+                0x00000000       0x4c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_getClockConfig
+                0x00000000       0x20 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_initCaptureMode
+                0x00000000       0xfc C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .rodata.DL_Timer_initCaptureMode
+                0x00000000       0x18 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_initCaptureTriggerMode
+                0x00000000       0x90 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_initCaptureCombinedMode
+                0x00000000       0xe0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_initCompareMode
+                0x00000000       0xac C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_initCompareTriggerMode
+                0x00000000       0x78 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_initPWMMode
+                0x00000000      0x100 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_setCaptureCompareValue
+                0x00000000       0x14 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_getCaptureCompareValue
+                0x00000000       0x14 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_setCaptureCompareCtl
+                0x00000000       0x24 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_getCaptureCompareCtl
+                0x00000000       0x1c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_setSecondCompSrcDn
+                0x00000000       0x1c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_getSecondCompSrcDn
+                0x00000000       0x18 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_setSecondCompSrcUp
+                0x00000000       0x20 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_getSecondCompSrcUp
+                0x00000000       0x18 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_setSecondCompActionDn
+                0x00000000       0x20 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_getSecondCompActionDn
+                0x00000000       0x18 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_setSecondCompActionUp
+                0x00000000       0x20 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_getSecondCompActionUp
+                0x00000000       0x18 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_enableSuppressionOfCompEvent
+                0x00000000       0x1c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_disableSuppressionOfCompEvent
+                0x00000000       0x1c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_setCaptCompUpdateMethod
+                0x00000000       0x20 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_getCaptCompUpdateMethod
+                0x00000000       0x18 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_setCaptureCompareOutCtl
+                0x00000000       0x1c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_getCaptureCompareOutCtl
+                0x00000000       0x14 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_setCaptureCompareAction
+                0x00000000       0x20 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_getCaptureCompareAction
+                0x00000000       0x1c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_overrideCCPOut
+                0x00000000       0x20 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_setCaptureCompareInput
+                0x00000000       0x20 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_getCaptureCompareInput
+                0x00000000       0x14 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_setCaptureCompareInputFilter
+                0x00000000       0x20 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_getCaptureCompareInputFilter
+                0x00000000       0x18 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_enableCaptureCompareInputFilter
+                0x00000000       0x18 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_disableCaptureCompareInputFilter
+                0x00000000       0x1c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_isCaptureCompareInputFilterEnabled
+                0x00000000       0x14 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_saveConfiguration
+                0x00000000      0x130 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_restoreConfiguration
+                0x00000000      0x148 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_TimerA_initPWMMode
+                0x00000000       0xbc C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_setFaultSourceConfig
+                0x00000000       0x2c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_getFaultSourceConfig
+                0x00000000       0x20 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_TimerA_saveConfiguration
+                0x00000000      0x1e0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_TimerA_restoreConfiguration
+                0x00000000      0x1dc C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_Timer_configQEIHallInputMode
+                0x00000000       0x30 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .rodata.CSWTCH.65
+                0x00000000        0x4 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text.DL_UART_getClockConfig
+                0x00000000       0x14 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .text.DL_UART_configBaudRate
+                0x00000000       0xb0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .text.DL_UART_configIrDAMode
+                0x00000000       0x40 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .text.DL_UART_setIrDAPulseLength
+                0x00000000       0x34 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .text.DL_UART_receiveDataBlocking
+                0x00000000       0x1c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .text.DL_UART_receiveDataCheck
+                0x00000000       0x20 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .text.DL_UART_transmitDataCheck
+                0x00000000       0x1c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .text.DL_UART_drainRXFIFO
+                0x00000000       0x2c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .text.DL_UART_fillTXFIFO
+                0x00000000       0x2c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .text.DL_UART_Main_saveConfiguration
+                0x00000000       0x84 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .text.DL_UART_Main_restoreConfiguration
+                0x00000000       0x90 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .text.DL_UART_Extend_saveConfiguration
+                0x00000000       0xa8 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .text.DL_UART_Extend_restoreConfiguration
+                0x00000000       0xc0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00020000         xr
+SRAM             0x20200000         0x00008000         xrw
+BCR_CONFIG       0x41c00000         0x00000080         r
+BSL_CONFIG       0x41c00100         0x00000080         r
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./empty.o
+LOAD ./ti_msp_dl_config.o
+LOAD ./startup_mspm0g350x_gcc.o
+LOAD ./arm_controller/arm_controller.o
+LOAD ./drv_uart/drv_uart.o
+LOAD ./eye_uart/hc05.o
+LOAD ./eye_uart/hc05_reqserver.o
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000080                _Min_Stack_Size = 0x80
+                0x00000000                PROVIDE (_intvecs_base_address = DEFINED (_intvecs_base_address)?_intvecs_base_address:0x0)
+
+.intvecs        0x00000000       0xc0
+ *(.intvecs)
+ .intvecs       0x00000000       0xc0 ./startup_mspm0g350x_gcc.o
+                0x00000000                interruptVectors
+                0x20200000                PROVIDE (_vtable_base_address = DEFINED (_vtable_base_address)?_vtable_base_address:0x20200000)
+
+.vtable
+ *(.vtable)
+
+.text           0x000000c0     0x3fc8
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x000000c0        0x0 ./empty.o
+ .text          0x000000c0        0x0 ./ti_msp_dl_config.o
+ .text          0x000000c0        0x0 ./startup_mspm0g350x_gcc.o
+ .text          0x000000c0        0x0 ./arm_controller/arm_controller.o
+ .text          0x000000c0        0x0 ./drv_uart/drv_uart.o
+ .text          0x000000c0        0x0 ./eye_uart/hc05.o
+ .text          0x000000c0        0x0 ./eye_uart/hc05_reqserver.o
+ .text          0x000000c0        0x0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .text          0x000000c0        0x0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .text          0x000000c0        0x0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .text          0x000000c0      0x114 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                0x000000c0                __aeabi_uidiv
+                0x000000c0                __udivsi3
+                0x000001cc                __aeabi_uidivmod
+ .text          0x000001d4      0x1d4 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                0x000001d4                __divsi3
+                0x000001d4                __aeabi_idiv
+                0x000003a0                __aeabi_idivmod
+ .text          0x000003a8        0x4 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x000003a8                __aeabi_idiv0
+                0x000003a8                __aeabi_ldiv0
+ .text          0x000003ac       0x7c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o)
+                0x000003ac                __aeabi_cdrcmple
+                0x000003bc                __aeabi_cdcmple
+                0x000003bc                __aeabi_cdcmpeq
+                0x000003cc                __aeabi_dcmpeq
+                0x000003d8                __aeabi_dcmplt
+                0x000003ec                __aeabi_dcmple
+                0x00000400                __aeabi_dcmpgt
+                0x00000414                __aeabi_dcmpge
+ .text          0x00000428      0x6d4 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(adddf3.o)
+                0x00000428                __aeabi_dadd
+ .text          0x00000afc      0x5d0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(divdf3.o)
+                0x00000afc                __aeabi_ddiv
+ .text          0x000010cc       0x78 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+                0x000010cc                __nedf2
+                0x000010cc                __eqdf2
+ .text          0x00001144       0xe4 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+                0x00001144                __gedf2
+                0x00001144                __gtdf2
+ .text          0x00001228       0xe0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+                0x00001228                __ledf2
+                0x00001228                __ltdf2
+ .text          0x00001308      0x4d8 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+                0x00001308                __aeabi_dmul
+ .text          0x000017e0      0x724 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+                0x000017e0                __aeabi_dsub
+ .text          0x00001f04       0x6c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+                0x00001f04                __aeabi_d2iz
+ .text          0x00001f70       0x60 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(floatsidf.o)
+                0x00001f70                __aeabi_i2d
+ .text          0x00001fd0       0x3c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+                0x00001fd0                __clzsi2
+ .text          0x0000200c        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .text          0x0000200c        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memcpy-stub.o)
+ .text          0x0000200c        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .text          0x0000200c        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_atan2.o)
+ .text          0x0000200c        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o)
+ .text          0x0000200c        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_atan2.o)
+ .text          0x0000200c        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_sqrt.o)
+ .text          0x0000200c        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_atan.o)
+ .text          0x0000200c        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_fabs.o)
+ .text          0x0000200c        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_lib_ver.o)
+ .text          0x0000200c        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_matherr.o)
+ .text          0x0000200c       0x3c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(unorddf2.o)
+                0x0000200c                __aeabi_dcmpun
+ .text          0x00002048        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
+ .text          0x00002048        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+                0x00002048                . = ALIGN (0x8)
+ *(.text.*)
+ .text.__NVIC_EnableIRQ
+                0x00002048       0x34 ./empty.o
+ .text.DL_Timer_startCounter
+                0x0000207c       0x24 ./empty.o
+ .text.DL_Timer_getPendingInterrupt
+                0x000020a0       0x1a ./empty.o
+ *fill*         0x000020ba        0x2 
+ .text.main     0x000020bc      0x128 ./empty.o
+                0x000020bc                main
+ .text.TIMA0_IRQHandler
+                0x000021e4       0x50 ./empty.o
+                0x000021e4                TIMA0_IRQHandler
+ .text.SYSCFG_DL_initPower
+                0x00002234       0x78 ./ti_msp_dl_config.o
+                0x00002234                SYSCFG_DL_initPower
+ .text.SYSCFG_DL_GPIO_init
+                0x000022ac       0x34 ./ti_msp_dl_config.o
+                0x000022ac                SYSCFG_DL_GPIO_init
+ .text.SYSCFG_DL_SYSCTL_init
+                0x000022e0       0x50 ./ti_msp_dl_config.o
+                0x000022e0                SYSCFG_DL_SYSCTL_init
+ .text.SYSCFG_DL_TIMER_0_init
+                0x00002330       0x44 ./ti_msp_dl_config.o
+                0x00002330                SYSCFG_DL_TIMER_0_init
+ .text.SYSCFG_DL_UART_eye_init
+                0x00002374       0x98 ./ti_msp_dl_config.o
+                0x00002374                SYSCFG_DL_UART_eye_init
+ .text.SYSCFG_DL_UART_arm_1_init
+                0x0000240c       0xa4 ./ti_msp_dl_config.o
+                0x0000240c                SYSCFG_DL_UART_arm_1_init
+ .text.SYSCFG_DL_UART_arm_2_init
+                0x000024b0       0xa4 ./ti_msp_dl_config.o
+                0x000024b0                SYSCFG_DL_UART_arm_2_init
+ .text.SYSCFG_DL_UART_arm_3_init
+                0x00002554       0xa0 ./ti_msp_dl_config.o
+                0x00002554                SYSCFG_DL_UART_arm_3_init
+ .text.SYSCFG_DL_init
+                0x000025f4       0x3c ./ti_msp_dl_config.o
+                0x000025f4                SYSCFG_DL_init
+ .text.Default_Handler
+                0x00002630        0x4 ./startup_mspm0g350x_gcc.o
+                0x00002630                TIMG6_IRQHandler
+                0x00002630                TIMG8_IRQHandler
+                0x00002630                I2C0_IRQHandler
+                0x00002630                HardFault_Handler
+                0x00002630                SysTick_Handler
+                0x00002630                PendSV_Handler
+                0x00002630                NMI_Handler
+                0x00002630                I2C1_IRQHandler
+                0x00002630                TIMA1_IRQHandler
+                0x00002630                ADC0_IRQHandler
+                0x00002630                SPI1_IRQHandler
+                0x00002630                TIMG0_IRQHandler
+                0x00002630                ADC1_IRQHandler
+                0x00002630                GROUP1_IRQHandler
+                0x00002630                RTC_IRQHandler
+                0x00002630                GROUP0_IRQHandler
+                0x00002630                Default_Handler
+                0x00002630                SVC_Handler
+                0x00002630                TIMG12_IRQHandler
+                0x00002630                DAC0_IRQHandler
+                0x00002630                TIMG7_IRQHandler
+                0x00002630                SPI0_IRQHandler
+                0x00002630                AES_IRQHandler
+                0x00002630                DMA_IRQHandler
+                0x00002630                CANFD0_IRQHandler
+ .text.Reset_Handler
+                0x00002634       0x8c ./startup_mspm0g350x_gcc.o
+                0x00002634                Reset_Handler
+ .text.initStub
+                0x000026c0        0x4 ./startup_mspm0g350x_gcc.o
+                0x000026c0                initStub
+                0x000026c0                _init
+ .text.cmd_arm_1_position_set
+                0x000026c4       0xac ./arm_controller/arm_controller.o
+                0x000026c4                cmd_arm_1_position_set
+ .text.cmd_arm_2_position_set
+                0x00002770       0xac ./arm_controller/arm_controller.o
+                0x00002770                cmd_arm_2_position_set
+ .text.cmd_arm_xy_position_detect
+                0x0000281c      0x178 ./arm_controller/arm_controller.o
+                0x0000281c                cmd_arm_xy_position_detect
+ .text.cmd_arm_z_position_detect
+                0x00002994       0x8c ./arm_controller/arm_controller.o
+                0x00002994                cmd_arm_z_position_detect
+ .text.arm_server
+                0x00002a20      0x334 ./arm_controller/arm_controller.o
+                0x00002a20                arm_server
+ .text.height_server
+                0x00002d54       0x9c ./arm_controller/arm_controller.o
+                0x00002d54                height_server
+ .text.__NVIC_EnableIRQ
+                0x00002df0       0x34 ./drv_uart/drv_uart.o
+ .text.DL_UART_receiveData
+                0x00002e24       0x1c ./drv_uart/drv_uart.o
+ .text.DL_UART_getPendingInterrupt
+                0x00002e40       0x1a ./drv_uart/drv_uart.o
+ *fill*         0x00002e5a        0x2 
+ .text.UART_Write
+                0x00002e5c      0x128 ./drv_uart/drv_uart.o
+                0x00002e5c                UART_Write
+ .text.UART_Write_num
+                0x00002f84       0xac ./drv_uart/drv_uart.o
+                0x00002f84                UART_Write_num
+ .text.UART0_IRQHandler
+                0x00003030       0xb4 ./drv_uart/drv_uart.o
+                0x00003030                UART0_IRQHandler
+ .text.UART1_IRQHandler
+                0x000030e4      0x134 ./drv_uart/drv_uart.o
+                0x000030e4                UART1_IRQHandler
+ .text.UART2_IRQHandler
+                0x00003218      0x134 ./drv_uart/drv_uart.o
+                0x00003218                UART2_IRQHandler
+ .text.UART3_IRQHandler
+                0x0000334c      0x120 ./drv_uart/drv_uart.o
+                0x0000334c                UART3_IRQHandler
+ .text.Uart_NVIC_init
+                0x0000346c       0x22 ./drv_uart/drv_uart.o
+                0x0000346c                Uart_NVIC_init
+ *fill*         0x0000348e        0x2 
+ .text.HC05_server
+                0x00003490      0x214 ./eye_uart/hc05_reqserver.o
+                0x00003490                HC05_server
+ .text.DL_Common_delayCycles
+                0x000036a4        0xc C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+                0x000036a4                DL_Common_delayCycles
+ .text.DL_Timer_setClockConfig
+                0x000036b0       0x1c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+                0x000036b0                DL_Timer_setClockConfig
+ .text.DL_Timer_initTimerMode
+                0x000036cc       0x74 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+                0x000036cc                DL_Timer_initTimerMode
+ .text.DL_UART_init
+                0x00003740       0x48 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+                0x00003740                DL_UART_init
+ .text.DL_UART_setClockConfig
+                0x00003788       0x14 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+                0x00003788                DL_UART_setClockConfig
+ .text.DL_UART_transmitDataBlocking
+                0x0000379c       0x18 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+                0x0000379c                DL_UART_transmitDataBlocking
+ .text.__libc_init_array
+                0x000037b4       0x44 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+                0x000037b4                __libc_init_array
+ .text.memcpy   0x000037f8       0xa4 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memcpy-stub.o)
+                0x000037f8                memcpy
+ .text.memset   0x0000389c       0xa8 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+                0x0000389c                memset
+ .text.atan2    0x00003944        0x8 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_atan2.o)
+                0x00003944                atan2
+ .text.sqrt     0x0000394c       0xc8 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o)
+                0x0000394c                sqrt
+ .text.__ieee754_atan2
+                0x00003a14      0x174 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_atan2.o)
+                0x00003a14                __ieee754_atan2
+ .text.__ieee754_sqrt
+                0x00003b88      0x1b0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_sqrt.o)
+                0x00003b88                __ieee754_sqrt
+ .text.atan     0x00003d38      0x338 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_atan.o)
+                0x00003d38                atan
+ .text.fabs     0x00004070        0x8 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_fabs.o)
+                0x00004070                fabs
+ .text.matherr  0x00004078        0x4 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_matherr.o)
+                0x00004078                matherr
+ .text.__errno  0x0000407c        0xc C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
+                0x0000407c                __errno
+                0x00004088                . = ALIGN (0x8)
+ *(.ctors)
+                0x00004088                . = ALIGN (0x8)
+ *(.dtors)
+                0x00004088                . = ALIGN (0x8)
+ *(.init)
+                0x00004088                . = ALIGN (0x8)
+ *(.fini*)
+                0x00004088                . = ALIGN (0x8)
+
+.glue_7         0x00004088        0x0
+ .glue_7        0x00004088        0x0 linker stubs
+
+.glue_7t        0x00004088        0x0
+ .glue_7t       0x00004088        0x0 linker stubs
+
+.vfp11_veneer   0x00004088        0x0
+ .vfp11_veneer  0x00004088        0x0 linker stubs
+
+.v4_bx          0x00004088        0x0
+ .v4_bx         0x00004088        0x0 linker stubs
+
+.iplt           0x00004088        0x0
+ .iplt          0x00004088        0x0 ./empty.o
+
+.ramfunc        0x20200000        0x0 load address 0x00004088
+                0x00004088                __ramfunct_load__ = LOADADDR (.ramfunc)
+                0x20200000                __ramfunct_start__ = .
+ *(.ramfunc)
+                0x20200000                . = ALIGN (0x8)
+                0x20200000                __ramfunct_end__ = .
+
+.rodata         0x00004088      0x298
+ *(.rodata)
+ .rodata        0x00004088       0x24 ./empty.o
+ .rodata        0x000040ac        0x2 ./drv_uart/drv_uart.o
+ *fill*         0x000040ae        0x2 
+ .rodata        0x000040b0       0x40 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(divdf3.o)
+ .rodata        0x000040f0       0x40 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+                0x00004130                . = ALIGN (0x8)
+ *(.rodata.*)
+ .rodata.gTIMER_0ClockConfig
+                0x00004130        0x3 ./ti_msp_dl_config.o
+ *fill*         0x00004133        0x1 
+ .rodata.gTIMER_0TimerConfig
+                0x00004134       0x14 ./ti_msp_dl_config.o
+ .rodata.gUART_arm_1ClockConfig
+                0x00004148        0x2 ./ti_msp_dl_config.o
+ *fill*         0x0000414a        0x2 
+ .rodata.gUART_arm_1Config
+                0x0000414c        0xa ./ti_msp_dl_config.o
+ *fill*         0x00004156        0x2 
+ .rodata.gUART_arm_2ClockConfig
+                0x00004158        0x2 ./ti_msp_dl_config.o
+ *fill*         0x0000415a        0x2 
+ .rodata.gUART_arm_2Config
+                0x0000415c        0xa ./ti_msp_dl_config.o
+ *fill*         0x00004166        0x2 
+ .rodata.gUART_arm_3ClockConfig
+                0x00004168        0x2 ./ti_msp_dl_config.o
+ *fill*         0x0000416a        0x2 
+ .rodata.gUART_arm_3Config
+                0x0000416c        0xa ./ti_msp_dl_config.o
+ *fill*         0x00004176        0x2 
+ .rodata.gUART_eyeClockConfig
+                0x00004178        0x2 ./ti_msp_dl_config.o
+ *fill*         0x0000417a        0x2 
+ .rodata.gUART_eyeConfig
+                0x0000417c        0xa ./ti_msp_dl_config.o
+ *fill*         0x00004186        0x2 
+ .rodata.cmd_arm_xy_position_detect.str1.4
+                0x00004188       0x1c ./arm_controller/arm_controller.o
+ .rodata.cmd_arm_z_position_detect.str1.4
+                0x000041a4       0x11 ./arm_controller/arm_controller.o
+ *fill*         0x000041b5        0x3 
+ .rodata.arm_server.str1.4
+                0x000041b8       0x23 ./arm_controller/arm_controller.o
+ *fill*         0x000041db        0x1 
+ .rodata.HC05_server.str1.4
+                0x000041dc       0x3c ./eye_uart/hc05_reqserver.o
+ .rodata.DL_Timer_initTimerMode
+                0x00004218       0x8c C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .rodata.sqrt.str1.4
+                0x000042a4        0x5 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o)
+ *fill*         0x000042a9        0x7 
+ .rodata.CSWTCH.8
+                0x000042b0       0x18 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_atan2.o)
+ .rodata.CSWTCH.9
+                0x000042c8       0x18 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_atan2.o)
+ .rodata.atanhi
+                0x000042e0       0x20 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_atan.o)
+ .rodata.atanlo
+                0x00004300       0x20 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_atan.o)
+                0x00004320                . = ALIGN (0x8)
+
+.rel.dyn        0x00004320        0x0
+ .rel.iplt      0x00004320        0x0 ./empty.o
+
+.preinit_array  0x00004320        0x0
+                0x00004320                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x00004320                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00004320        0x0
+                0x00004320                . = ALIGN (0x8)
+                0x00004320                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+                0x00004320                PROVIDE (__init_array_end = .)
+
+.fini_array     0x00004320        0x0
+                0x00004320                . = ALIGN (0x8)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x00004320                . = ALIGN (0x8)
+
+.ARM.exidx      0x00004320        0x0
+                0x00004320                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00004320                __exidx_end = .
+
+.ARM.extab      0x00004320        0x0
+                0x00004320                . = ALIGN (0x8)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00004320                . = ALIGN (0x8)
+                0x00004320                __etext = .
+
+.data           0x20200000      0x498 load address 0x00004320
+                0x00004320                __data_load__ = LOADADDR (.data)
+                0x20200000                __data_start__ = .
+ *(.data)
+ .data          0x20200000        0x0 ./empty.o
+ .data          0x20200000        0x0 ./ti_msp_dl_config.o
+ .data          0x20200000        0x0 ./startup_mspm0g350x_gcc.o
+ .data          0x20200000        0x0 ./arm_controller/arm_controller.o
+ .data          0x20200000        0x0 ./drv_uart/drv_uart.o
+ .data          0x20200000        0x0 ./eye_uart/hc05.o
+ .data          0x20200000        0x0 ./eye_uart/hc05_reqserver.o
+ .data          0x20200000        0x0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .data          0x20200000        0x0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .data          0x20200000        0x0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(adddf3.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(divdf3.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(floatsidf.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .data          0x20200000        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .data          0x20200000        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memcpy-stub.o)
+ .data          0x20200000        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .data          0x20200000        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_atan2.o)
+ .data          0x20200000        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o)
+ .data          0x20200000        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_atan2.o)
+ .data          0x20200000        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_sqrt.o)
+ .data          0x20200000        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_atan.o)
+ .data          0x20200000        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_fabs.o)
+ .data          0x20200000        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_lib_ver.o)
+ .data          0x20200000        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_matherr.o)
+ .data          0x20200000        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(unorddf2.o)
+ .data          0x20200000        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
+ .data          0x20200000        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+ *(.data*)
+ .data.data.15650
+                0x20200000        0xd ./arm_controller/arm_controller.o
+ *fill*         0x2020000d        0x3 
+ .data.data_arm_1
+                0x20200010        0xd ./arm_controller/arm_controller.o
+                0x20200010                data_arm_1
+ *fill*         0x2020001d        0x3 
+ .data.data_arm_2
+                0x20200020        0xd ./arm_controller/arm_controller.o
+                0x20200020                data_arm_2
+ *fill*         0x2020002d        0x3 
+ .data.packet_uart_1_exp
+                0x20200030        0x4 ./arm_controller/arm_controller.o
+                0x20200030                packet_uart_1_exp
+ .data.packet_uart_2_exp
+                0x20200034        0x4 ./arm_controller/arm_controller.o
+                0x20200034                packet_uart_2_exp
+ .data.packet_uart_3_exp
+                0x20200038        0x4 ./arm_controller/arm_controller.o
+                0x20200038                packet_uart_3_exp
+ .data.timing   0x2020003c       0x28 ./eye_uart/hc05_reqserver.o
+                0x2020003c                timing
+ .data.__fdlib_version
+                0x20200064        0x1 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_lib_ver.o)
+                0x20200064                __fdlib_version
+ *fill*         0x20200065        0x3 
+ .data._impure_ptr
+                0x20200068        0x4 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+                0x20200068                _impure_ptr
+ *fill*         0x2020006c        0x4 
+ .data.impure_data
+                0x20200070      0x428 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+                0x20200498                . = ALIGN (0x8)
+                0x20200498                __data_end__ = .
+
+.igot.plt       0x20200498        0x0 load address 0x000047b8
+ .igot.plt      0x20200498        0x0 ./empty.o
+
+.bss            0x20200498      0x310
+                0x20200498                __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ .bss           0x20200498        0x0 ./empty.o
+ .bss           0x20200498        0x0 ./ti_msp_dl_config.o
+ .bss           0x20200498        0x0 ./startup_mspm0g350x_gcc.o
+ .bss           0x20200498        0x0 ./arm_controller/arm_controller.o
+ .bss           0x20200498        0x0 ./drv_uart/drv_uart.o
+ .bss           0x20200498        0x0 ./eye_uart/hc05.o
+ .bss           0x20200498        0x0 ./eye_uart/hc05_reqserver.o
+ .bss           0x20200498        0x0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .bss           0x20200498        0x0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .bss           0x20200498        0x0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(adddf3.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(divdf3.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(floatsidf.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .bss           0x20200498        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .bss           0x20200498        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memcpy-stub.o)
+ .bss           0x20200498        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .bss           0x20200498        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_atan2.o)
+ .bss           0x20200498        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o)
+ .bss           0x20200498        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_atan2.o)
+ .bss           0x20200498        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_sqrt.o)
+ .bss           0x20200498        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_atan.o)
+ .bss           0x20200498        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_fabs.o)
+ .bss           0x20200498        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_lib_ver.o)
+ .bss           0x20200498        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_matherr.o)
+ .bss           0x20200498        0x0 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(unorddf2.o)
+ .bss           0x20200498        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
+ .bss           0x20200498        0x0 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+ *(.bss.*)
+ .bss.height_flag
+                0x20200498        0x1 ./arm_controller/arm_controller.o
+                0x20200498                height_flag
+ *fill*         0x20200499        0x7 
+ .bss.offset_x_act
+                0x202004a0        0x8 ./arm_controller/arm_controller.o
+                0x202004a0                offset_x_act
+ .bss.offset_x_ang
+                0x202004a8        0x4 ./arm_controller/arm_controller.o
+                0x202004a8                offset_x_ang
+ *fill*         0x202004ac        0x4 
+ .bss.offset_y_act
+                0x202004b0        0x8 ./arm_controller/arm_controller.o
+                0x202004b0                offset_y_act
+ .bss.offset_y_ang
+                0x202004b8        0x4 ./arm_controller/arm_controller.o
+                0x202004b8                offset_y_ang
+ .bss.position_flag
+                0x202004bc        0x1 ./arm_controller/arm_controller.o
+                0x202004bc                position_flag
+ *fill*         0x202004bd        0x3 
+ .bss.HC05_cnt  0x202004c0        0x4 ./drv_uart/drv_uart.o
+                0x202004c0                HC05_cnt
+ .bss.arm_1_cnt
+                0x202004c4        0x4 ./drv_uart/drv_uart.o
+                0x202004c4                arm_1_cnt
+ .bss.arm_2_cnt
+                0x202004c8        0x4 ./drv_uart/drv_uart.o
+                0x202004c8                arm_2_cnt
+ .bss.arm_3_cnt
+                0x202004cc        0x4 ./drv_uart/drv_uart.o
+                0x202004cc                arm_3_cnt
+ .bss.uart_hc05_done
+                0x202004d0        0x1 ./drv_uart/drv_uart.o
+                0x202004d0                uart_hc05_done
+ .bss.uart_arm_1_done
+                0x202004d1        0x1 ./drv_uart/drv_uart.o
+                0x202004d1                uart_arm_1_done
+ .bss.uart_arm_2_done
+                0x202004d2        0x1 ./drv_uart/drv_uart.o
+                0x202004d2                uart_arm_2_done
+ .bss.uart_arm_3_done
+                0x202004d3        0x1 ./drv_uart/drv_uart.o
+                0x202004d3                uart_arm_3_done
+ *(COMMON)
+ COMMON         0x202004d4        0x8 ./empty.o
+                0x202004d4                count_2
+                0x202004d8                flash_flag
+ COMMON         0x202004dc       0xec ./ti_msp_dl_config.o
+                0x202004dc                gUART_arm_3Backup
+                0x2020050c                gTIMER_0Backup
+ COMMON         0x202005c8      0x148 ./arm_controller/arm_controller.o
+                0x202005c8                m_y
+                0x202005d0                arm_3_gRxPacket
+                0x202005f8                position_set_y
+                0x202005fc                arm_2_gRxPacket
+                0x20200624                uart_hc05_tx_pro
+                0x20200628                arm_1_gRxPacket_copy
+                0x20200650                position_set_x
+                0x20200654                height_count
+                0x20200658                uart_arm_3_tx_pro
+                0x20200660                angle_1
+                0x20200668                m_x
+                0x20200670                v
+                0x20200674                count
+                0x20200678                position_set_z
+                0x2020067c                arm_2_gRxPacket_copy
+                0x202006a4                uart_arm_1_tx_pro
+                0x202006a8                arm_1_gRxPacket
+                0x202006d0                angle_2
+                0x202006d8                t_int_1
+                0x202006dc                uart_arm_2_tx_pro
+                0x202006e0                position_count
+                0x202006e4                t_int_2
+                0x202006e8                arm_3_gRxPacket_copy
+ COMMON         0x20200710       0x10 ./drv_uart/drv_uart.o
+                0x20200710                arm_1_packet_length
+                0x20200714                arm_2_packet_length
+                0x20200718                arm_3_packet_length
+                0x2020071c                HC05_packet_length
+ COMMON         0x20200720       0x84 ./eye_uart/hc05.o
+                0x20200720                HC05_gRxPacket
+                0x20200748                HC05_gRxPacket_pointer
+                0x2020074c                HC05_packet_end
+                0x20200750                HC05_gTxPacket
+                0x20200778                HC05_packet_start
+                0x2020077c                HC05_gRxPacket_copy
+ COMMON         0x202007a4        0x1 ./eye_uart/hc05_reqserver.o
+                0x202007a4                flag
+                0x202007a8                . = ALIGN (0x8)
+ *fill*         0x202007a5        0x3 
+                0x202007a8                __bss_end__ = .
+
+.noinit         0x202007a8        0x0
+ *(*.noinit*)
+                0x202007a8                . = ALIGN (0x8)
+
+.heap           0x202007a8        0x0
+                0x202007a8                __heap_start__ = .
+                0x202007a8                end = __heap_start__
+                0x202007a8                _end = end
+                0x202007a8                __end = end
+ *(.heap)
+                0x202007a8                __heap_end__ = .
+                0x202007a8                __HeapLimit = __heap_end__
+
+.stack          0x202007a8        0x0
+                0x202007a8                _stack = .
+ *(.stack)
+
+.BCRConfig
+ *(.BCRConfig)
+
+.BSLConfig
+ *(.BSLConfig)
+                0x20208000                __StackTop = (ORIGIN (REGION_STACK) + LENGTH (REGION_STACK))
+                [!provide]                PROVIDE (__stack = __StackTop)
+LOAD C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a
+LOAD c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+LOAD C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+LOAD C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
+START GROUP
+LOAD c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a
+LOAD C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+END GROUP
+OUTPUT(m_arm.out elf32-littlearm)
+
+.debug_info     0x00000000    0x45229
+ .debug_info    0x00000000     0x75c7 ./empty.o
+ .debug_info    0x000075c7     0x8ade ./ti_msp_dl_config.o
+ .debug_info    0x000100a5      0x1bc ./startup_mspm0g350x_gcc.o
+ .debug_info    0x00010261     0x75c8 ./arm_controller/arm_controller.o
+ .debug_info    0x00017829     0x77c6 ./drv_uart/drv_uart.o
+ .debug_info    0x0001efef     0x7095 ./eye_uart/hc05.o
+ .debug_info    0x00026084     0x7331 ./eye_uart/hc05_reqserver.o
+ .debug_info    0x0002d3b5     0x674d C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .debug_info    0x00033b02     0x9f50 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .debug_info    0x0003da52     0x77d7 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+
+.debug_abbrev   0x00000000     0x1e4d
+ .debug_abbrev  0x00000000      0x327 ./empty.o
+ .debug_abbrev  0x00000327      0x467 ./ti_msp_dl_config.o
+ .debug_abbrev  0x0000078e       0xe7 ./startup_mspm0g350x_gcc.o
+ .debug_abbrev  0x00000875      0x329 ./arm_controller/arm_controller.o
+ .debug_abbrev  0x00000b9e      0x355 ./drv_uart/drv_uart.o
+ .debug_abbrev  0x00000ef3      0x27e ./eye_uart/hc05.o
+ .debug_abbrev  0x00001171      0x309 ./eye_uart/hc05_reqserver.o
+ .debug_abbrev  0x0000147a      0x1c0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .debug_abbrev  0x0000163a      0x428 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .debug_abbrev  0x00001a62      0x3eb C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+
+.debug_aranges  0x00000000      0x420
+ .debug_aranges
+                0x00000000       0x40 ./empty.o
+ .debug_aranges
+                0x00000040       0x70 ./ti_msp_dl_config.o
+ .debug_aranges
+                0x000000b0       0x30 ./startup_mspm0g350x_gcc.o
+ .debug_aranges
+                0x000000e0       0x48 ./arm_controller/arm_controller.o
+ .debug_aranges
+                0x00000128       0x68 ./drv_uart/drv_uart.o
+ .debug_aranges
+                0x00000190       0x20 ./eye_uart/hc05.o
+ .debug_aranges
+                0x000001b0       0x30 ./eye_uart/hc05_reqserver.o
+ .debug_aranges
+                0x000001e0       0x20 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .debug_aranges
+                0x00000200      0x188 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .debug_aranges
+                0x00000388       0x98 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+
+.debug_ranges   0x00000000     0x10e0
+ .debug_ranges  0x00000000       0x30 ./empty.o
+ .debug_ranges  0x00000030      0x478 ./ti_msp_dl_config.o
+ .debug_ranges  0x000004a8       0x20 ./startup_mspm0g350x_gcc.o
+ .debug_ranges  0x000004c8       0x38 ./arm_controller/arm_controller.o
+ .debug_ranges  0x00000500       0x58 ./drv_uart/drv_uart.o
+ .debug_ranges  0x00000558       0x10 ./eye_uart/hc05.o
+ .debug_ranges  0x00000568       0x20 ./eye_uart/hc05_reqserver.o
+ .debug_ranges  0x00000588       0x10 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .debug_ranges  0x00000598      0x7d8 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .debug_ranges  0x00000d70      0x370 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+
+.debug_line     0x00000000     0x694f
+ .debug_line    0x00000000      0x5a2 ./empty.o
+ .debug_line    0x000005a2      0xe1d ./ti_msp_dl_config.o
+ .debug_line    0x000013bf      0x1cb ./startup_mspm0g350x_gcc.o
+ .debug_line    0x0000158a      0x9ea ./arm_controller/arm_controller.o
+ .debug_line    0x00001f74      0x869 ./drv_uart/drv_uart.o
+ .debug_line    0x000027dd      0x453 ./eye_uart/hc05.o
+ .debug_line    0x00002c30      0x72a ./eye_uart/hc05_reqserver.o
+ .debug_line    0x0000335a      0x427 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .debug_line    0x00003781     0x231b C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .debug_line    0x00005a9c      0xeb3 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+
+.debug_str      0x00000000     0x600c
+ .debug_str     0x00000000     0x29e1 ./empty.o
+                               0x2b84 (size before relaxing)
+ .debug_str     0x000029e1     0x16ef ./ti_msp_dl_config.o
+                               0x3d30 (size before relaxing)
+ .debug_str     0x000040d0      0x13d ./startup_mspm0g350x_gcc.o
+                                0x2bf (size before relaxing)
+ .debug_str     0x0000420d      0x1ba ./arm_controller/arm_controller.o
+                               0x284a (size before relaxing)
+ .debug_str     0x000043c7      0x2c2 ./drv_uart/drv_uart.o
+                               0x2c5f (size before relaxing)
+ .debug_str     0x00004689       0x2f ./eye_uart/hc05.o
+                               0x2528 (size before relaxing)
+ .debug_str     0x000046b8       0x49 ./eye_uart/hc05_reqserver.o
+                               0x2712 (size before relaxing)
+ .debug_str     0x00004701      0x1b6 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+                               0x2129 (size before relaxing)
+ .debug_str     0x000048b7     0x1368 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+                               0x391d (size before relaxing)
+ .debug_str     0x00005c1f      0x3ed C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+                               0x2a9d (size before relaxing)
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 ./empty.o
+                                 0x7a (size before relaxing)
+ .comment       0x00000079       0x7a ./ti_msp_dl_config.o
+ .comment       0x00000079       0x7a ./startup_mspm0g350x_gcc.o
+ .comment       0x00000079       0x7a ./arm_controller/arm_controller.o
+ .comment       0x00000079       0x7a ./drv_uart/drv_uart.o
+ .comment       0x00000079       0x7a ./eye_uart/hc05.o
+ .comment       0x00000079       0x7a ./eye_uart/hc05_reqserver.o
+ .comment       0x00000079       0x7a C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .comment       0x00000079       0x7a C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .comment       0x00000079       0x7a C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+
+.ARM.attributes
+                0x00000000       0x2c
+ .ARM.attributes
+                0x00000000       0x2b ./empty.o
+ .ARM.attributes
+                0x0000002b       0x2b ./ti_msp_dl_config.o
+ .ARM.attributes
+                0x00000056       0x2b ./startup_mspm0g350x_gcc.o
+ .ARM.attributes
+                0x00000081       0x2b ./arm_controller/arm_controller.o
+ .ARM.attributes
+                0x000000ac       0x2b ./drv_uart/drv_uart.o
+ .ARM.attributes
+                0x000000d7       0x2b ./eye_uart/hc05.o
+ .ARM.attributes
+                0x00000102       0x2b ./eye_uart/hc05_reqserver.o
+ .ARM.attributes
+                0x0000012d       0x2b C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .ARM.attributes
+                0x00000158       0x2b C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .ARM.attributes
+                0x00000183       0x2b C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .ARM.attributes
+                0x000001ae       0x1e c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000001cc       0x1e c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000001ea       0x1e c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000208       0x1e c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000226       0x2c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(adddf3.o)
+ .ARM.attributes
+                0x00000252       0x2c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(divdf3.o)
+ .ARM.attributes
+                0x0000027e       0x2c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+ .ARM.attributes
+                0x000002aa       0x2c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+ .ARM.attributes
+                0x000002d6       0x2c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+ .ARM.attributes
+                0x00000302       0x2c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+ .ARM.attributes
+                0x0000032e       0x2c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+ .ARM.attributes
+                0x0000035a       0x2c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+ .ARM.attributes
+                0x00000386       0x2c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(floatsidf.o)
+ .ARM.attributes
+                0x000003b2       0x1e c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x000003d0       0x2c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000003fc       0x2c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000428       0x2c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000454       0x2c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_atan2.o)
+ .ARM.attributes
+                0x00000480       0x2c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o)
+ .ARM.attributes
+                0x000004ac       0x2c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_atan2.o)
+ .ARM.attributes
+                0x000004d8       0x2c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x00000504       0x2c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_atan.o)
+ .ARM.attributes
+                0x00000530       0x2c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x0000055c       0x2c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x00000588       0x2c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x000005b4       0x2c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(unorddf2.o)
+ .ARM.attributes
+                0x000005e0       0x2c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000060c       0x2c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+
+.debug_frame    0x00000000      0xeb8
+ .debug_frame   0x00000000       0xac ./empty.o
+ .debug_frame   0x000000ac      0x124 ./ti_msp_dl_config.o
+ .debug_frame   0x000001d0       0x48 ./startup_mspm0g350x_gcc.o
+ .debug_frame   0x00000218       0xd8 ./arm_controller/arm_controller.o
+ .debug_frame   0x000002f0      0x14c ./drv_uart/drv_uart.o
+ .debug_frame   0x0000043c       0x2c ./eye_uart/hc05.o
+ .debug_frame   0x00000468       0x68 ./eye_uart/hc05_reqserver.o
+ .debug_frame   0x000004d0       0x20 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .debug_frame   0x000004f0      0x3d0 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .debug_frame   0x000008c0      0x1a4 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)
+ .debug_frame   0x00000a64       0x20 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000a84       0x20 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000aa4       0x38 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(adddf3.o)
+ .debug_frame   0x00000adc       0x3c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(divdf3.o)
+ .debug_frame   0x00000b18       0x38 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+ .debug_frame   0x00000b50       0x38 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+ .debug_frame   0x00000b88       0x38 c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+ .debug_frame   0x00000bc0       0x3c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+ .debug_frame   0x00000bfc       0x3c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+ .debug_frame   0x00000c38       0x2c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+ .debug_frame   0x00000c64       0x2c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(floatsidf.o)
+ .debug_frame   0x00000c90       0x2c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .debug_frame   0x00000cbc       0x34 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000cf0       0x30 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000d20       0x28 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_atan2.o)
+ .debug_frame   0x00000d48       0x38 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-w_sqrt.o)
+ .debug_frame   0x00000d80       0x38 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_atan2.o)
+ .debug_frame   0x00000db8       0x38 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x00000df0       0x3c C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_atan.o)
+ .debug_frame   0x00000e2c       0x20 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x00000e4c       0x20 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x00000e6c       0x2c c:/ti/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(unorddf2.o)
+ .debug_frame   0x00000e98       0x20 C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
+
+.debug_loc      0x00000000     0x3dd6
+ .debug_loc     0x00000000       0x72 ./ti_msp_dl_config.o
+ .debug_loc     0x00000072       0x13 ./startup_mspm0g350x_gcc.o
+ .debug_loc     0x00000085      0x1cf ./arm_controller/arm_controller.o
+ .debug_loc     0x00000254       0x65 ./eye_uart/hc05.o
+ .debug_loc     0x000002b9      0x254 ./eye_uart/hc05_reqserver.o
+ .debug_loc     0x0000050d     0x2e18 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_timer.o)
+ .debug_loc     0x00003325      0xab1 C:/ti/mspm0_sdk_2_01_00_03/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_uart.o)

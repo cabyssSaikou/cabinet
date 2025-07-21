@@ -1,0 +1,13 @@
+"./empty.o"
+"./ti_msp_dl_config.o"
+"./startup_mspm0g350x_gcc.o"
+"./arm_controller/arm_controller.o"
+"./drv_uart/drv_uart.o"
+"./eye_uart/hc05.o"
+"./eye_uart/hc05_reqserver.o"
+-Wl,-T"./device_linker.lds"
+-Wl,-Tdevice.lds.genlibs
+-lgcc
+-lc
+-lm
+-lnosys

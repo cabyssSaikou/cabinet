@@ -1,0 +1,32 @@
+[
+   {
+      "directory" : "C:/Users/86135/cabinet/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/86135/cabinet\" -I\"C:/Users/86135/cabinet/Debug\" -I\"C:/ti/mspm0_sdk_2_01_00_03/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_01_00_03/source\" -I\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/newlib-nano\" -I\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/arm-none-eabi\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/backward\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include-fixed\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\"",
+      "file"      : "C:/Users/86135/cabinet/Debug/ti_msp_dl_config.c"
+   },
+   {
+      "directory" : "C:/Users/86135/cabinet/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/86135/cabinet\" -I\"C:/Users/86135/cabinet/Debug\" -I\"C:/ti/mspm0_sdk_2_01_00_03/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_01_00_03/source\" -I\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/newlib-nano\" -I\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/arm-none-eabi\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/backward\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include-fixed\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\"",
+      "file"      : "C:/Users/86135/cabinet/arm_controller/arm_controller.c"
+   },
+   {
+      "directory" : "C:/Users/86135/cabinet/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/86135/cabinet\" -I\"C:/Users/86135/cabinet/Debug\" -I\"C:/ti/mspm0_sdk_2_01_00_03/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_01_00_03/source\" -I\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/newlib-nano\" -I\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/arm-none-eabi\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/backward\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include-fixed\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\"",
+      "file"      : "C:/Users/86135/cabinet/drv_uart/drv_uart.c"
+   },
+   {
+      "directory" : "C:/Users/86135/cabinet/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/86135/cabinet\" -I\"C:/Users/86135/cabinet/Debug\" -I\"C:/ti/mspm0_sdk_2_01_00_03/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_01_00_03/source\" -I\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/newlib-nano\" -I\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/arm-none-eabi\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/backward\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include-fixed\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\"",
+      "file"      : "C:/Users/86135/cabinet/empty.c"
+   },
+   {
+      "directory" : "C:/Users/86135/cabinet/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/86135/cabinet\" -I\"C:/Users/86135/cabinet/Debug\" -I\"C:/ti/mspm0_sdk_2_01_00_03/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_01_00_03/source\" -I\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/newlib-nano\" -I\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/arm-none-eabi\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/backward\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include-fixed\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\"",
+      "file"      : "C:/Users/86135/cabinet/eye_uart/hc05.c"
+   },
+   {
+      "directory" : "C:/Users/86135/cabinet/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/86135/cabinet\" -I\"C:/Users/86135/cabinet/Debug\" -I\"C:/ti/mspm0_sdk_2_01_00_03/source/third_party/CMSIS/Core/Include\" -I\"C:/ti/mspm0_sdk_2_01_00_03/source\" -I\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/newlib-nano\" -I\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/arm-none-eabi\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/backward\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include-fixed\" -isystem\"C:/ti/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\"",
+      "file"      : "C:/Users/86135/cabinet/eye_uart/hc05_reqserver.c"
+   }
+]
